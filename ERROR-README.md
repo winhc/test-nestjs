@@ -1,7 +1,7 @@
 ### If you have found this problem in REDIS
-``zsh
+```zsh
 stop-writes-on-bgsave-error
-``
+```
 
 ### redis-cli
 ```zsh
