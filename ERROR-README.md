@@ -5,7 +5,7 @@ stop-writes-on-bgsave-error
 
 ### redis-cli
 ```zsh
-127.0.0.1:6379> CONFIG SET dir /data/tmp
+127.0.0.1:6379> CONFIG SET dir data/tmp
 OK
 127.0.0.1:6379> CONFIG SET dbfilename temp.rdb
 OK
